@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**huseyinerdem33/huseyinerdem33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello! I'm Hüseyin Erdem 👋
+I'm currently pursuing a degree in Electrical and Electronics Engineering. I’m passionate about low-level programming, systems design, and solving complex problems using code. My main focus is on system-level programming with C, embedded systems, and mathematical modeling.
 
-Here are some ideas to get you started:
+🔧 Interests:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Digital Electronics & Embedded Systems
+
+👨‍💻 System Programming with C / C++
+
+🔍 Algorithms and Analytical Thinking
+
+📊 Mathematical Modeling & Simulation
+
+🧠 Rigorous Proofs and Logical Reasoning
+
+🎯 My goal is to bridge theory with practice through engineering-oriented projects and contribute to the open-source community. Every line of code I write is a step toward deeper understanding and mastery.
+
+📫 Get in touch:
+LinkedIn: linkedin.com/in/huseyinerdem
