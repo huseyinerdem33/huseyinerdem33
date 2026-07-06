@@ -34,9 +34,3 @@ I'm currently pursuing a degree in **Electrical and Electronics Engineering**. I
 
 ---
 
-### 📊 Dynamic GitHub Metrics
-
-| 📈 System Contributions | 💻 Language Distribution |
-| :---: | :---: |
-| ![Hüseyin's Stats](https://github-readme-stats.vercel.app/api?username=huseyinerdem33&show_icons=true&theme=tokyonight&hide_border=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huseyinerdem33&layout=compact&theme=tokyonight&hide_border=true) |
-
