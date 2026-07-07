@@ -21,6 +21,12 @@ I'm currently pursuing a degree in **Electrical and Electronics Engineering**. I
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
+<!-- Simulation & EDA Tools -->
+### 🔬 Simulation Tools
+![Proteus](https://img.shields.io/badge/Proteus-005493?style=flat-square&logo=expressvpn&logoColor=white)
+![LTspice](https://img.shields.io/badge/LTspice-004D40?style=flat-square&logo=ltspice&logoColor=white)
+![Qucs](https://img.shields.io/badge/Qucs-8BC34A?style=flat-square&logo=open-source-initiative&logoColor=white)
+
 ### 🔧 Core Interests
 
 * ⚡ **Digital Electronics & Embedded Systems** — Hardware description, microcontrollers, and firmware development.
